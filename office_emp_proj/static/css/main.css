@@ -1,0 +1,34 @@
+#bg{
+background-repeat: no-repeat;
+background-size: 1910px 850px;
+background-position: top;
+background-attachment: fixed;
+}
+
+#vw{
+background-repeat: no-repeat;
+background-size: 1700px 800px;
+background-position: center;
+background-attachment: fixed;
+}
+
+#ad{
+background-repeat: no-repeat;
+background-size: 1600px 800px;
+background-position: top;
+background-attachment: fixed;
+}
+
+#rm{
+background-repeat: no-repeat;
+background-size: 1700px 800px;
+background-position: top;
+background-attachment: fixed;
+}
+
+#ft{
+background-repeat: no-repeat;
+background-size: 1700px 800px;
+background-position: top;
+background-attachment: fixed;
+}
