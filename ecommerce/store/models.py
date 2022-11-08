@@ -78,11 +78,12 @@ class ShippingAddress(models.Model):
     def __str__(self):
         return self.address
 
-@property
-def get_total(self):
-    justcheck = self.product.price * self.quantity
-    return justcheck
-@rohit
-def deco():
-    print('hiii')
-deco()
+# @property
+# def get_total(self):
+#     justcheck = self.product.price * self.quantity
+#     return justcheck
+# @rohit
+# def deco():
+#     print('hiii')
+# deco()
+hfeygf
