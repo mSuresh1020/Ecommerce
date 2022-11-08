@@ -86,4 +86,3 @@ class ShippingAddress(models.Model):
 # def deco():
 #     print('hiii')
 # deco()
-hfeygf
